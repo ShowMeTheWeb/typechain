@@ -1,8 +1,8 @@
 # Typechain
 
-yarn init
+## yarn init
 
-yarn global add typescript
+## yarn global add typescript
 
 Make New file -> tsconfig.json and typing as below
 --------------------------------------------------
@@ -17,7 +17,7 @@ Make New file -> tsconfig.json and typing as below
 }
 --------------------------------------------------
 
-npm i -D @types/node typescript ts-node
+## npm i -D @types/node typescript ts-node
 
 Modify package.json as below
 --------------------------------------------------
